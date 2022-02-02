@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LunarProxy](https://github.com/maxswebservices/lunarproxybeta)
 
-- 🌱 I’m currently learning **Unity** and **Blender**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maxswebservices](https://github.com/maxswebservices)
 
